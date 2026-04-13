@@ -1,0 +1,1 @@
+# ARM-Cortex-M-Startup-Runtime-Custom-Linker-Script
